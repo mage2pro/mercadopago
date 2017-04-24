@@ -1,0 +1,31 @@
+{
+	"name": "mage2pro/mercadopago"
+	,"version": "0.0.1"
+	,"description": "The «MercadoPago» payment extension for Magento 2."
+	,"type": "magento2-module"
+	,"homepage": "https://mage2.pro/c/extensions/mercadopago"
+	,"license": "proprietary"
+	,"authors": [{
+		"name": "Dmitry Fedyuk",
+		"email": "admin@mage2.pro",
+		"homepage": "https://mage2.pro/users/dmitry_fedyuk",
+		"role": "Developer"
+	}]
+	,"require": {"mage2pro/core": ">=2.5.23", "mercadopago/sdk": ">=0.5.2"}
+	,"autoload": {"files": ["registration.php"], "psr-4": {"Dfe\\MercadoPago\\": ""}}
+	,"keywords": [
+		"API"
+		,"Bank card"
+		,"Argentina", "Brasil", "Chile", "Mexico", "Venezuela", "Colombia", "Uruguay", "Peru"
+		,"Credit card"
+		,"eCommerce"
+		,"Magento"
+		,"Magento 2"
+		,"Magento extension"
+		,"MercadoPago"
+		,"Payment"
+		,"Payment authorization"
+		,"Payment integration"
+		,"Payment gateway"
+	]
+}
