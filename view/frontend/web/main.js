@@ -47,8 +47,10 @@ define(['Df_StripeClone/main'], function(parent) {'use strict'; return parent.ex
     /**
 	 * 2017-04-24
 	 * @override
-	 * @see https://github.com/mage2pro/core/blob/2.0.11/StripeClone/view/frontend/web/main.js?ts=4#L50-L56
-	 * @used-by placeOrder()
+	 * @see Df_StripeClone/main::tokenParams()
+	 * https://github.com/mage2pro/core/blob/2.7.8/StripeClone/view/frontend/web/main.js?ts=4#L42-L48
+	 * @used-by Df_StripeClone/main::placeOrder()
+	 * https://github.com/mage2pro/core/blob/2.7.8/StripeClone/view/frontend/web/main.js?ts=4#L73
 	 * @returns {Object}
 	 */
 	tokenParams: function() {return null;}
