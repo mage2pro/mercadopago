@@ -3,7 +3,7 @@ It is an alternative MercadoPago payment module for Magento 2 you can get fast s
 
 ## How to buy
 The extension is not released yet, so there is no way to buy it just now.  
-The extension will be released before 2017-06-24.   
+The extension will be released when I will want so.   
 
 ## How to install
 ### 1. Free installation service
