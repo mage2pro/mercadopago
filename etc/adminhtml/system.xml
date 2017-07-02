@@ -15,7 +15,6 @@
 			<group
 				id='mercado_pago'
 				translate='label'
-				type='text'
 				sortOrder='1305'
 				showInDefault='1'
 				showInWebsite='1'
