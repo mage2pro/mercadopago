@@ -1,6 +1,6 @@
 {
 	"name": "mage2pro/mercadopago"
-	,"version": "0.0.1"
+	,"version": "0.0.2"
 	,"description": "The «MercadoPago» payment extension for Magento 2."
 	,"type": "magento2-module"
 	,"homepage": "https://mage2.pro/c/extensions/mercadopago"
