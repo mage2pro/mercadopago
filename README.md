@@ -13,7 +13,7 @@ Just order my [free installation service](https://mage2.pro/t/3585).
 ```
 composer require mage2pro/mercadopago:*
 bin/magento setup:upgrade
-rm -rf pub/static/* && bin/magento setup:static-content:deploy <locale, e.g.: pt_BR>
+rm -rf pub/static/* && bin/magento setup:static-content:deploy en_US <additional locales, e.g.: es_AR pt_BR es_CL es_MX es_VE es_CO es_UY es_PE>
 rm -rf var/di var/generation generated/code && bin/magento setup:di:compile
 ```
 If you have some problems while executing these commands, then check the [detailed instruction](https://mage2.pro/t/263).
