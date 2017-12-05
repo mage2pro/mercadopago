@@ -1,6 +1,6 @@
 {
 	"name": "mage2pro/mercadopago"
-	,"version": "0.0.3"
+	,"version": "0.0.4"
 	,"description": "An alternative MercadoPago payment module for Magento 2 you can get fast support, free installation service and customizations for"
 	,"type": "magento2-module"
 	,"homepage": "https://mage2.pro/c/extensions/mercadopago"
@@ -11,7 +11,7 @@
 		"homepage": "https://mage2.pro/users/dmitry_fedyuk",
 		"role": "Developer"
 	}]
-	,"require": {"mage2pro/core": ">=2.12.21", "mercadopago/sdk": ">=0.5.2"}
+	,"require": {"mage2pro/core": ">=3.4.1", "mercadopago/sdk": ">=0.5.2"}
 	,"autoload": {"files": ["registration.php"], "psr-4": {"Dfe\\MercadoPago\\": ""}}
 	,"keywords": [
 		"API"
