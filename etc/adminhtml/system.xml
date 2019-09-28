@@ -95,7 +95,7 @@ So the `sortOrder` value is 1920. -->
 					type='textarea'
 				>
 					<label>Description</label>
-					<comment><![CDATA[It will be displayed in the MercadoPago web interface alongside the payment.<br/>You can use <a href='https://mage2.pro/t/1834' target='_blank'>variables</a> in the description.]]></comment>
+					<comment><![CDATA[It is shown in the MercadoPago web interface alongside the payment.<br/>You can use <a href='https://mage2.pro/t/1834' target='_blank'>variables</a> in the description.]]></comment>
 					<depends><field id='enable'>1</field></depends>
 				</field>
 				<field
